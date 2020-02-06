@@ -1,0 +1,98 @@
+﻿body {
+    margin: 0;
+    font-family: "Open Sans", Verdana, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    color: #000;
+    background-color: #F6F8FA
+}
+.initialism{letter-spacing:0.03em}
+a{text-decoration:none}
+a:visited{color:purple}
+a:hover{text-decoration:underline}
+.invalid{color:red}
+.cwhite{
+    color:#fff
+}
+.cblack {
+    color: #1D1D1D
+}
+.cblue {
+    color: #2D89EF
+}
+.mlightgreen {
+    background-color: #99B433
+}
+.mgreen {
+    background-color: #00A300
+}
+.mdarkgreen {
+    background-color: #1E7145
+}
+.mmagenta {
+    background-color: #FF0097
+}
+.mlightpurple {
+    background-color: #9F00A7
+}
+.mpurple {
+    background-color: #7E3878
+}
+.mdarkpurple {
+    background-color: #603CBA
+}
+.mblack {
+    background-color: #1D1D1D
+}
+.mteal {
+    background-color: #00ABA9
+}
+.mlightblue {
+    background-color: #EFF4FF
+}
+.mblue {
+    background-color: #2D89EF
+}
+.mdarkblue {
+    background-color: #2B5797
+}
+.myellow {
+    background-color: #FFC40D
+}
+.morange {
+    background-color: #E3A21A
+}
+.mdarkorange {
+    background-color: #DA532C
+}
+.mred {
+    background-color: #B91D47
+}
+.mlightred {
+    background-color: #E11
+}
+.mwhite {
+    background-color: #FFF
+}
+.navbar-custom .navbar-brand {
+    color: #fed136;
+    font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
+}
+header {
+    background-image: url('../Static/header-bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    text-align: center;
+    color: white;
+}
+header .intro-text {
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
+@media (min-width: 768px) {
+
+}
