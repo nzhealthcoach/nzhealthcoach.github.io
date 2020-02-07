@@ -78,7 +78,7 @@ a:hover{text-decoration:underline}
     font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
 }
 header {
-    background-image: url('../Static/header-bg.jpg');
+    background-image: url('../Static/banner1.jpg');
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center top;
@@ -91,7 +91,7 @@ header {
 }
 header .intro-text {
     padding-top: 70px;
-    padding-bottom: 50px;
+    padding-bottom: 120px;
 }
 @media (min-width: 768px) {
 
